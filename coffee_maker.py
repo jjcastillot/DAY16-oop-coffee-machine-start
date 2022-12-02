@@ -4,7 +4,7 @@ class CoffeeMaker:
         self.resources = {
             "water": 300,
             "milk": 200,
-            "coffee": 100,
+            "coffee": 100, 
         }
 
     def report(self):

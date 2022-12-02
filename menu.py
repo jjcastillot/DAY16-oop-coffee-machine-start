@@ -6,7 +6,7 @@ class MenuItem:
         self.ingredients = {
             "water": water,
             "milk": milk,
-            "coffee": coffee
+            "coffee": coffee 
         }
 
 
